@@ -2,6 +2,8 @@
 
 > 音乐播放器
 
+> [gitHub地址](https://github.com/qidaizxc/music-player)
+
 ## Build Setup
 
 ``` bash
