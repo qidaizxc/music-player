@@ -1,8 +1,8 @@
 {
-  "name": "vue-music",
-  "version": "1.0.0",
+  "name": "music-player",
+  "version": "0.0.1",
   "description": "音乐播放器",
-  "author": "ustbhuangyi <280309453@qq.com>",
+  "author": "575650532@qq.com",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
